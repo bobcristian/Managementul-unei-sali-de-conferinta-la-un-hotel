@@ -1,0 +1,10 @@
+C:\Users\bobcr\OneDrive\Documents\Visual Studio 2017\Projects\Conferinta\Conferinta\bin\Debug\Conferinta.exe.config
+C:\Users\bobcr\OneDrive\Documents\Visual Studio 2017\Projects\Conferinta\Conferinta\bin\Debug\Conferinta.exe
+C:\Users\bobcr\OneDrive\Documents\Visual Studio 2017\Projects\Conferinta\Conferinta\bin\Debug\Conferinta.pdb
+C:\Users\bobcr\OneDrive\Documents\Visual Studio 2017\Projects\Conferinta\Conferinta\obj\Debug\Conferinta.csprojResolveAssemblyReference.cache
+C:\Users\bobcr\OneDrive\Documents\Visual Studio 2017\Projects\Conferinta\Conferinta\obj\Debug\Conferinta.Form1.resources
+C:\Users\bobcr\OneDrive\Documents\Visual Studio 2017\Projects\Conferinta\Conferinta\obj\Debug\Conferinta.Properties.Resources.resources
+C:\Users\bobcr\OneDrive\Documents\Visual Studio 2017\Projects\Conferinta\Conferinta\obj\Debug\Conferinta.csproj.GenerateResource.Cache
+C:\Users\bobcr\OneDrive\Documents\Visual Studio 2017\Projects\Conferinta\Conferinta\obj\Debug\Conferinta.exe
+C:\Users\bobcr\OneDrive\Documents\Visual Studio 2017\Projects\Conferinta\Conferinta\obj\Debug\Conferinta.pdb
+C:\Users\bobcr\onedrive\documents\visual studio 2017\Projects\Conferinta\Conferinta\obj\Debug\Conferinta.Settings.resources

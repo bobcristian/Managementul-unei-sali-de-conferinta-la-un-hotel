@@ -1,0 +1,9 @@
+c:\users\bobcr\onedrive\documents\visual studio 2017\Projects\Conferinta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+c:\users\bobcr\onedrive\documents\visual studio 2017\Projects\Conferinta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+c:\users\bobcr\onedrive\documents\visual studio 2017\Projects\Conferinta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+c:\users\bobcr\onedrive\documents\visual studio 2017\Projects\Conferinta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+c:\users\bobcr\onedrive\documents\visual studio 2017\Projects\Conferinta\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+c:\users\bobcr\onedrive\documents\visual studio 2017\Projects\Conferinta\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+c:\users\bobcr\onedrive\documents\visual studio 2017\Projects\Conferinta\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+c:\users\bobcr\onedrive\documents\visual studio 2017\Projects\Conferinta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+c:\users\bobcr\onedrive\documents\visual studio 2017\Projects\Conferinta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
